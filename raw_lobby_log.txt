@@ -31522,3 +31522,8 @@ War zone
 ww3
 Make hole below u
 <color=yellow>PTO</color>
+War zone
+ww3
+YOUR A DICTATOR
+Make hole below u
+<color=yellow>PTO</color>
