@@ -42427,3 +42427,8 @@ cris
 666erp4
 ww3
 6767676767
+cris
+666erp4
+ww3
+6767676767
+destroy everything
