@@ -50160,3 +50160,6 @@ kill npc
 Just no
 kill npc
 Just no
+kill npc
+123456
+Just no
