@@ -50326,3 +50326,5 @@ iiddkk
 GTA43
 kill npc
 Just no
+kill npc
+Just no
