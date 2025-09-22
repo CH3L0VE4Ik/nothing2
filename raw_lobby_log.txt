@@ -50393,3 +50393,6 @@ Lol123
 kill npc
 Just no
 Lol123
+kill npc
+Just no
+Lol123
