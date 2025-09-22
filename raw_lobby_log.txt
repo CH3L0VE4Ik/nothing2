@@ -44629,3 +44629,7 @@ Area 52
 join pls
 ww3
 name
+not flamedon’t spawn stuff
+Area 52
+ww3
+name
