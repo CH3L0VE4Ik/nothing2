@@ -6807,3 +6807,11 @@ KDO=KOLER DLIO OPL
 7891
 папа
 ЛСЛСОВЛВОВЛВЛВ
+KDO=KOLER DLIO OPL
+cvostik
+гта 3
+7891
+拆迁小屋
+7891
+папа
+ЛСЛСОВЛВОВЛВЛВ
