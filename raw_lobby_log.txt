@@ -50370,3 +50370,4 @@ kill npc
 Just no
 kill npc
 kill npc
+kill npc
