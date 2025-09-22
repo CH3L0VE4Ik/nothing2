@@ -50376,3 +50376,5 @@ kill npc
 kill npc
 kill npc
 kill npc
+kill npc
+Just no
