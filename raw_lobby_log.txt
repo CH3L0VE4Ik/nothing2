@@ -50375,3 +50375,4 @@ kill npc
 kill npc
 kill npc
 kill npc
+kill npc
